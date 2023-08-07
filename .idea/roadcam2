@@ -1,5 +1,3 @@
-{
-
 [
 
 {"id":"1","title":"Taipei101","location":"25.0339357, 121.5647001","weblink":"z_fY1pj1VBw","acticle":""}
@@ -12,7 +10,4 @@
 ,
 
 {"id":"4","title":"cam3","location":"25.169120, 121.444527","weblink":"https://cctvatis4.ntpc.gov.tw/C000176","acticle":""}
-
-
 ]
-}
