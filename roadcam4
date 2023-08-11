@@ -51,5 +51,237 @@
 
 {"id":"15","title":"淡水漁人碼頭","locationX":"25.1852793","locationY":"121.4105918","weblink":"xwAWSh35uuw","acticle":""}
 
-
+,
+{
+    "id": "CCTV-14-0620-009-002",
+    "title": "快速公路62號(暖暖交流道到大華系統交流道)(W)",
+    "locationX": "25.10529",
+    "locationY": "121.7321",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-9K+020",
+    "acticle": "100620"
+  },
+  {
+    "id": "CCTV-14-0620-012-012",
+    "title": "快速公路62號(瑞芳交流道到暖暖交流道)(W)",
+    "locationX": "25.10815",
+    "locationY": "121.7624",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-12K+460",
+    "acticle": "100620"
+  },
+  {
+    "id": "CCTV-14-0620-012-007",
+    "title": "快速公路62號(瑞芳交流道到暖暖交流道)(W)",
+    "locationX": "25.10918",
+    "locationY": "121.7657",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-12K+805",
+    "acticle": "100620"
+  },
+  {
+    "id": "CCTV-14-0620-013-004",
+    "title": "快速公路62號(瑞芳交流道到暖暖交流道)(W)",
+    "locationX": "25.11009",
+    "locationY": "121.769",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-13K+155",
+    "acticle": "100620"
+  },
+  {
+    "id": "CCTV-14-0620-014-016",
+    "title": "快速公路62號(瑞芳交流道到暖暖交流道)(W)",
+    "locationX": "25.11076",
+    "locationY": "121.7786",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-14K+120",
+    "acticle": "100620"
+  },
+  {
+    "id": "CCTV-14-0620-014-009",
+    "title": "快速公路62號(瑞芳交流道到暖暖交流道)(W)",
+    "locationX": "25.11074",
+    "locationY": "121.7849",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-14K+755",
+    "acticle": "100620"
+  },
+  {
+    "id": "CCTV-14-0620-017-020",
+    "title": "快速公路62號(瑞濱端到瑞芳交流道)(W)",
+    "locationX": "25.11882",
+    "locationY": "121.807",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-17K+200",
+    "acticle": "100620"
+  },
+  {
+    "id": "CCTV-14-0620-017-015",
+    "title": "快速公路62號(瑞濱端到瑞芳交流道)",
+    "locationX": "25.11922",
+    "locationY": "121.8095",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-17K+468",
+    "acticle": "100620"
+  },
+  {
+    "id": "CCTV-14-0620-017-016",
+    "title": "快速公路62號(瑞濱端到瑞芳交流道)(W)",
+    "locationX": "25.11926",
+    "locationY": "121.8114",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-17K+643",
+    "acticle": "100620"
+  },
+  {
+        "id": "CCTV-14-0620-017-018",
+        "title": "快速公路62號(瑞濱端到瑞芳交流道)(W)",
+        "locationX": "25.11926",
+        "locationY": "121.8131",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-17K+818",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-000-016",
+        "title": "快速公路62號(安樂端到瑪東系統交流道)(W)",
+        "locationX": "25.13932",
+        "locationY": "121.7028",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-0K+325",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-000-009",
+        "title": "快速公路62號(安樂端到瑪東系統交流道)(E)",
+        "locationX": "25.13804",
+        "locationY": "121.702",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-0K+488",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-000-011",
+        "title": "快速公路62號(安樂端到瑪東系統交流道)(E)",
+        "locationX": "25.13536",
+        "locationY": "121.7001",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-0K+838",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-001-012",
+        "title": "快速公路62號(安樂端到瑪東系統交流道)(E)",
+        "locationX": "25.13132",
+        "locationY": "121.6974",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-1K+363",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-001-013",
+        "title": "快速公路62號(安樂端到瑪東系統交流道)(E)",
+        "locationX": "25.12979",
+        "locationY": "121.6968",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-1K+538",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-001-019",
+        "title": "台62線1K+900",
+        "locationX": "25.12665",
+        "locationY": "121.6976",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-1K+900",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-003-003",
+        "title": "快速公路62號(瑪東系統交流道到七堵交流道)(E)",
+        "locationX": "25.11514",
+        "locationY": "121.6933",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-3K+360",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-004-002",
+        "title": "快速公路62號(七堵交流道到大華系統交流道)(E)",
+        "locationX": "25.10237",
+        "locationY": "121.6939",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-4K+860",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-005-002",
+        "title": "快速公路62號(大華系統交流道到暖暖交流道)(E)",
+        "locationX": "25.09804",
+        "locationY": "121.7034",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-5K+950",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-012-011",
+        "title": "快速公路62號(暖暖交流道到瑞芳交流道)(E)",
+        "locationX": "25.10919",
+        "locationY": "121.7666",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-12K+990",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-014-013",
+        "title": "快速公路62號(暖暖交流道到瑞芳交流道)(E)",
+        "locationX": "25.11041",
+        "locationY": "121.7823",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-14K+495",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-015-002",
+        "title": "快速公路62號(暖暖交流道到瑞芳交流道)(E)",
+        "locationX": "25.11116",
+        "locationY": "121.7876",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-15K+040",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-001-014",
+        "title": "快速公路62號(瑪東系統交流道到安樂端)(W)",
+        "locationX": "25.13331",
+        "locationY": "121.6992",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-1K+088",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-016-002",
+        "title": "快速公路62號(瑞芳交流道到瑞濱端)(E)",
+        "locationX": "25.11443",
+        "locationY": "121.7972",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-16K+100",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-017-011",
+        "title": "快速公路62號(瑞芳交流道到瑞濱端)(E)",
+        "locationX": "25.11901",
+        "locationY": "121.8094",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-17K+438",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-017-014",
+        "title": "快速公路62號(瑞芳交流道到瑞濱端)(E)",
+        "locationX": "25.11903",
+        "locationY": "121.8111",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-17K+613",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-017-013",
+        "title": "快速公路62號(瑞芳交流道到瑞濱端)(E)",
+        "locationX": "25.11904",
+        "locationY": "121.8128",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-17K+788",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-017-012",
+        "title": "快速公路62號(瑞芳交流道到瑞濱端)(E)",
+        "locationX": "25.11905",
+        "locationY": "121.8146",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-17K+963",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-018-008",
+        "title": "快速公路62號(瑞芳交流道到瑞濱端)(E)",
+        "locationX": "25.11913",
+        "locationY": "121.8163",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-18K+138",
+        "acticle": "100620"
+    }
 ]
