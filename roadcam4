@@ -283,5 +283,317 @@
         "locationY": "121.8163",
         "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-18K+138",
         "acticle": "100620"
-    }
+    },
+    {
+        "id": "CCTV-14-0620-018-012",
+        "title": "快速公路62號(瑞芳交流道到瑞濱端)(E)",
+        "locationX": "25.12166",
+        "locationY": "121.8189",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-18K+535",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-001-015",
+        "title": "快速公路62號(瑪東系統交流道到安樂端)(W)",
+        "locationX": "25.13195",
+        "locationY": "121.6982",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-1K+263",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-14-0620-001-018",
+        "title": "快速公路62號(瑪東系統交流道到安樂端)(W)",
+        "locationX": "25.12913",
+        "locationY": "121.697",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T62-1K+613",
+        "acticle": "100620"
+    },
+    {
+        "id": "CCTV-12-0640-005-014",
+        "title": "快速公路64號(觀音山交流道到八里交流道)(W)",
+        "locationX": "25.11169",
+        "locationY": "121.422",
+        "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-5K+433",
+        "acticle": "100640"
+    },
+    {
+        "id": "CCTV-12-0640-026-002",
+        "title": "快速公路64號(新店端到中和二交流道)(W)",
+        "locationX": "24.99321",
+        "locationY": "121.5075",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-26K+830",
+        "acticle": "100640"
+    },
+    {
+        "id": "CCTV-12-0640-000-006",
+        "title": "快速公路64號(台北港端到八里交流道)(E)",
+        "locationX": "25.14564",
+        "locationY": "121.3957",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-0K+585",
+        "acticle": "100640"
+    },
+    {
+        "id": "CCTV-12-0640-001-002",
+        "title": "快速公路64號(八里交流道到觀音山交流道)(E)",
+        "locationX": "25.14018",
+        "locationY": "121.3986",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-1K+285",
+        "acticle": "100640"
+    },
+    {
+        "id": "CCTV-12-0640-002-004",
+        "title": "快速公路64號(八里交流道到觀音山交流道)(E)",
+        "locationX": "25.12836",
+        "locationY": "121.4025",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-2K+700",
+        "acticle": "100640"
+    },
+    {
+        "id": "CCTV-12-0640-006-004",
+        "title": "快速公路64號(八里交流道到觀音山交流道)(E)",
+        "locationX": "25.10943",
+        "locationY": "121.427",
+        "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-6K+000",
+        "acticle": "100640"
+    },
+    {
+        "id": "CCTV-12-0640-011-003",
+        "title": "快速公路64號(五股一交流道到五股二交流道)(E)",
+        "locationX": "25.08231",
+        "locationY": "121.4483",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-11K+528",
+        "acticle": "100640"
+    },
+    {
+        "id": "CCTV-12-0640-009-002",
+        "title": "快速公路64號(觀音山交流道到五股一交流道)(E)",
+        "locationX": "25.09588",
+        "locationY": "121.4498",
+        "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-9K+971",
+        "acticle": "100640"
+    },
+    {
+        "id": "CCTV-12-0640-014-002",
+        "title": "快速公路64號(五股二交流道到三重交流道)(E)",
+        "locationX": "25.06223",
+        "locationY": "121.4718",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-14K+872",
+        "acticle": "100640"
+    },
+    {
+        "id": "CCTV-12-0640-017-003",
+        "title": "快速公路64號(三重交流道到江子翠交流道)(E)",
+        "locationX": "25.0453",
+        "locationY": "121.4782",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-17K+008",
+        "acticle": "200110"
+    },
+    {
+        "id": "CCTV-12-0640-018-003",
+        "title": "快速公路64號(江子翠交流道到板橋交流道)(E)",
+        "locationX": "25.038",
+        "locationY": "121.478",
+        "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-18K+048",
+        "acticle": "100640"
+    },
+    {
+    "id": "CCTV-12-0640-006-003",
+    "title": "快速公路64號(觀音山交流道到八里交流道)(W)",
+    "locationX": "25.10833",
+    "locationY": "121.4308",
+    "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-6K+401",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-019-002",
+    "title": "快速公路64號(江子翠交流道到板橋交流道)(E)",
+    "locationX": "25.033",
+    "locationY": "121.4634",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-19K+631",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-020-002",
+    "title": "快速公路64號(江子翠交流道到板橋交流道)(E)",
+    "locationX": "25.02558",
+    "locationY": "121.4666",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-20K+517",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-022-003",
+    "title": "台64線22K+313",
+    "locationX": "25.01222",
+    "locationY": "121.4765",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-22K+313",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-023-002",
+    "title": "快速公路64號(中和一交流道到中和交流道)(E)",
+    "locationX": "25.00267",
+    "locationY": "121.4848",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-23K+750",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-024-006",
+    "title": "快速公路64號(中和交流道到中和二交流道)(W)",
+    "locationX": "24.99862",
+    "locationY": "121.4851",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-24K+201",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-024-008",
+    "title": "快速公路64號(中和交流道到中和二交流道)",
+    "locationX": "24.99473",
+    "locationY": "121.486",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-24K+650",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-025-002",
+    "title": "快速公路64號(中和交流道到中和二交流道)(E)",
+    "locationX": "24.9941",
+    "locationY": "121.4903",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-25K+099",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-027-002",
+    "title": "快速公路64號(中和二交流道到新店端)(E)",
+    "locationX": "24.99188",
+    "locationY": "121.5186",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-27K+961",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-000-008",
+    "title": "快速公路64號(台北港端到八里交流道(S)",
+    "locationX": "25.067",
+    "locationY": "121.4379",
+    "weblink": "https://cctv-ss03.thb.gov.tw:443/T65-0K+000",
+    "acticle": "401071"
+  },
+  {
+    "id": "CCTV-12-0640-000-007",
+    "title": "快速公路64號(觀音山交流道到八里交流道)(N)",
+    "locationX": "25.08216",
+    "locationY": "121.4407",
+    "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-0K+960",
+    "acticle": "401080"
+  },
+  {
+    "id": "CCTV-12-0640-008-002",
+    "title": "快速公路64號(五股一交流道到觀音山交流道)(W)",
+    "locationX": "25.10512",
+    "locationY": "121.4539",
+    "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-8K+814",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-003-034",
+    "title": "快速公路64號(觀音山交流道到八里交流道)(W)",
+    "locationX": "25.12654",
+    "locationY": "121.4047",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-3K+000",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-004-028",
+    "title": "快速公路64號(觀音山交流道到八里交流道)(W)",
+    "locationX": "25.11928",
+    "locationY": "121.4112",
+    "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-4K+350",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-011-004",
+    "title": "台64線11K+938",
+    "locationX": "25.07875",
+    "locationY": "121.4498",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-11K+938",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-015-002",
+    "title": "快速公路64號(江子翠交流道到三重交流道)(W)",
+    "locationX": "25.06088",
+    "locationY": "121.4736",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-15K+109",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-005-020",
+    "title": "快速公路64號(觀音山交流道到八里交流道)(W)",
+    "locationX": "25.11241",
+    "locationY": "121.4203",
+    "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-5K+250",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-002-005",
+    "title": "快速公路64號(八里交流道到觀音山交流道)(E)",
+    "locationX": "25.12771",
+    "locationY": "121.4031",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-2K+790",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-017-004",
+    "title": "快速公路64號(江子翠交流道到三重交流道)(W)",
+    "locationX": "25.03868",
+    "locationY": "121.4806",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-17K+781",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-004-020",
+    "title": "快速公路64號(八里交流道到觀音山交流道)(E)",
+    "locationX": "25.11884",
+    "locationY": "121.4112",
+    "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-4K+070",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-018-004",
+    "title": "快速公路64號(板橋交流道到江子翠交流道)(W)",
+    "locationX": "25.03594",
+    "locationY": "121.4698",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-18K+911",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-005-016",
+    "title": "快速公路64號(八里交流道到觀音山交流道)(E)",
+    "locationX": "25.11267",
+    "locationY": "121.4191",
+    "weblink": "https://cctv-ss03.thb.gov.tw:443/T64-5K+120",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-022-004",
+    "title": "快速公路64號(中和一交流道到板橋交流道)(W)",
+    "locationX": "25.01765",
+    "locationY": "121.4719",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-21K+552",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-12-0640-022-004",
+    "title": "快速公路64號(中和交流道到中和一交流道)(W)",
+    "locationX": "25.01765",
+    "locationY": "121.4719",
+    "weblink": "https://cctv-ss02.thb.gov.tw:443/T64-21K+552",
+    "acticle": "100640"
+  },
+  {
+    "id": "CCTV-13-0010-017-01",
+    "title": "龜山鄉東萬壽路",
+    "locationX": "25.00914",
+    "locationY": "121.3858",
+    "weblink": "https://cctv-ss01.thb.gov.tw:443/T1-17K+150",
+    "acticle": "300010"
+  }
 ]
